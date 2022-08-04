@@ -43,7 +43,7 @@ I learned how further advance my knowledge with flexbox as well as fixing hover 
 
 ## Author
 
-- Website - [Carlos Requena](https://github.com/carlos-req)
+- Website - [Carlos Requena](https://carlosjrequena.com/)
 - Twitter - [@CarlosReq11](https://twitter.com/CarlosReq11)
 
 ## Acknowledgments
