@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://carlos-req.github.io/orderysummarycomponent.github.io/)
+- Solution URL: [Solution](https://github.com/carlos-req/orderysummarycomponent.github.io)
+- Live Site URL: [Live](https://carlos-req.github.io/orderysummarycomponent.github.io/)
 
 ## My process
 
